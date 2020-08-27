@@ -28,7 +28,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ### [VIDEO TUTORIAL](https://www.youtube.com/watch?v=VpwV64DLd1Q) ###  
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/Aoxar)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Alexdawnofficial)
+[![Github](https://img.shields.io/badge/Github-Aoxar-green?style=for-the-badge&logo=github)](https://github.com/Aoxar)
+[![Instagram](https://img.shields.io/badge/IG-%40alexdawnofficialt-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Alexdawnofficial)
 [![Telegram](https://img.shields.io/badge/IG-%40Darkweb-red?style=for-the-badge&logo=telegram)](https://t.me/darkwebinjector)
 [![Youtube](https://img.shields.io/badge/IG-%40Alnex-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCMxpylFB3Qv_uBRZfAAvF0g)
